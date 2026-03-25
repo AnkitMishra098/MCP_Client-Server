@@ -1,0 +1,9 @@
+langchain-mcp-adapters
+streamlit
+requests
+langchain
+python-dotenv
+langchain_mcp_adapters
+langchain_core
+langchain_groq 
+dotenv 

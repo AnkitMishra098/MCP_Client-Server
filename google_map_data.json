@@ -1,0 +1,291 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2, Sardar Patel Marg, Diplomatic Enclave, Chanakyapuri, New Delhi, Delhi 110021, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5950829,
+                    "lng": 77.1709187
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.5963183302915,
+                        "lng": 77.17235043029152
+                    },
+                    "southwest": {
+                        "lat": 28.5936203697085,
+                        "lng": 77.16965246970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Taj Palace, New Delhi",
+            "photos": [
+                {
+                    "height": 3600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101051372200059098406\">Taj Palace, New Delhi</a>"
+                    ],
+                    "photo_reference": "AU_ZVEFJGzdiyGVE_1ukX1A1-8WGegw7Ztaqvu1-2eofHhh--sb5IO6VYRfOu-rz8whnoTNtpmZDUFEvQFnPt2IRKXBvdDY5w3ouMe4CPT8tYrOBsuZGxf-XsOFuQt9bLXUOx0y3r0uNMXc95nawoftIkqYMmZfKjWSMn-04hGkWO-SK7FEfM7dDVYSGIIHuuzRE1-7F_PI0BPHCt_RfwUGAQWZarpLIgUNq-eUyRXx4QHHaswIbvqIGLkYKthm_lfi-SYTIQOqmlIopm_-qlFQO86uLE13XO_Jlr5rh8WXEa0XzXA",
+                    "width": 4800
+                }
+            ],
+            "place_id": "ChIJe4zp0KMdDTkRm90YLrHBVg8",
+            "plus_code": {
+                "compound_code": "H5WC+29 New Delhi, Delhi, India",
+                "global_code": "7JWVH5WC+29"
+            },
+            "rating": 4.7,
+            "reference": "ChIJe4zp0KMdDTkRm90YLrHBVg8",
+            "types": [
+                "establishment",
+                "lodging",
+                "point_of_interest"
+            ],
+            "user_ratings_total": 34659
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8647, Arakashan Rd, Ram Nagar, Paharganj, New Delhi, Delhi 110055, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6457644,
+                    "lng": 77.2159437
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.6471616302915,
+                        "lng": 77.2172662802915
+                    },
+                    "southwest": {
+                        "lat": 28.6444636697085,
+                        "lng": 77.21456831970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Ajanta - Free Airport Pick Up Service",
+            "photos": [
+                {
+                    "height": 667,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100923470934337257696\">Hotel Ajanta - Free Airport Pick Up Service</a>"
+                    ],
+                    "photo_reference": "AU_ZVEFGxLdtt3f2qoXQmG8gh3Iay1mtQZpk_7xQiiiT56j1FLWDqW2YEEExgvOZLVfzWCWh2P2_XAGeCFWyeidXL1jV9TicJyAMLP46E1n0gvTi6yOwzihOmQnSwTt8xHNBSDgPbvFBwqZ4qQyGmHkwylPDG0QmPwXeMF5DDGHqiZKd-khzmzuYvhRF5bDQUDlbqagmYq2hXWAA7Tx7TRgSWBb-jsR3WmRnroxW5tcMPMeKuOg6TZHjmNCRU13uo6uB0jLas3NjNNqd5buvylswZgYgXibVADp-TIx1eo9yeCXfzQ",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJfZabjD_9DDkR0siMJiwLzR8",
+            "plus_code": {
+                "compound_code": "J6W8+89 New Delhi, Delhi, India",
+                "global_code": "7JWVJ6W8+89"
+            },
+            "rating": 4.6,
+            "reference": "ChIJfZabjD_9DDkR0siMJiwLzR8",
+            "types": [
+                "establishment",
+                "lodging",
+                "point_of_interest"
+            ],
+            "user_ratings_total": 3444
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Janakpuri District Center, Janakpuri, New Delhi, Delhi, 110058, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6288785,
+                    "lng": 77.0785077
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.6306799302915,
+                        "lng": 77.08014518029151
+                    },
+                    "southwest": {
+                        "lat": 28.6279819697085,
+                        "lng": 77.0774472197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hyatt Centric Janakpuri New Delhi",
+            "photos": [
+                {
+                    "height": 1199,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109854698630548632512\">Hyatt Centric Janakpuri New Delhi</a>"
+                    ],
+                    "photo_reference": "AU_ZVEH54SJFO9HTY4-AXlr6BOTI7MNOAKgiOmgLu-EoLhLuDBdjRWjOtxHj5K4eYxVSGCpmKn0p0xjqnxPB1VRWDfgrZEIMgwmJE0yKLrz6pXvkJ-uev47Vxrtx0IaZg8DDn2o17N5u_bvm5MdBKLJD8_BpMmM9N6kczY5VFxUqX7cx4mtik76pfphGmBVzKEd-SB-pL3XFM-_mWpB9i95AIERPzwoZWfTKgiAn8xXBDaxJ7KglxHAPjF74Ac7LTzwWlbGnWv4VDZZsflPVDtOrYYoJl5jQflS4YFOZ7DD47200ZQ",
+                    "width": 1800
+                }
+            ],
+            "place_id": "ChIJqQ3x2j0FDTkRHNMbO1tpnwo",
+            "plus_code": {
+                "compound_code": "J3HH+HC New Delhi, Delhi, India",
+                "global_code": "7JWVJ3HH+HC"
+            },
+            "rating": 3.9,
+            "reference": "ChIJqQ3x2j0FDTkRHNMbO1tpnwo",
+            "types": [
+                "establishment",
+                "lodging",
+                "point_of_interest"
+            ],
+            "user_ratings_total": 12831
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "IGI Rd, Aerocity, Ibis, New Delhi, Delhi, 110037, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.551431,
+                    "lng": 77.123132
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.55278888029151,
+                        "lng": 77.12447238029151
+                    },
+                    "southwest": {
+                        "lat": 28.5500909197085,
+                        "lng": 77.12177441970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "ibis New Delhi Aerocity",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117717395531505414734\">Gopi Nallaiyan</a>"
+                    ],
+                    "photo_reference": "AU_ZVEFSbzBi-yM9TpFPu0dtYosa9ahVyd111gjsf6Z08Au5vl7OMk7QgwXM9WBjDIKqUtqhS8F_p8KVleMiPbnFTcBDD5nJy8i7LjLdG4pD_LS-3pYDkv8oqn1jBLWv85gp-K9Ix6FXtYCrffHiTVkIB0EUIousGLy6TO7ARheet_ia1s94lVIoSATp1hwxReNcfp3XKmmLW1xkh3m9XeL5Ij0_f6R0ayaxXTYWY9gkH_JV6BfGohdKzLbOkoAZYVyrrK8nWyaIzN-a3Bkn_KdimsCc-zcZmSCUXq1SPM-QmcQtDUG6yzFWjApOT529rBzmnEXs9R6rArV_3tlyr4-o5TC-C19cT9caRmZzCdvwF5NzgCO9K1vKOG7atgyHOjPPnAG648aefRvJijSPvXMw6FmPmdSmqpO-IrJjoJXW1V3Yf4Y",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJY6PJh2kcDTkRybb5KBGcqIY",
+            "plus_code": {
+                "compound_code": "H42F+H7 New Delhi, Delhi, India",
+                "global_code": "7JWVH42F+H7"
+            },
+            "rating": 4.5,
+            "reference": "ChIJY6PJh2kcDTkRybb5KBGcqIY",
+            "types": [
+                "establishment",
+                "lodging",
+                "point_of_interest"
+            ],
+            "user_ratings_total": 35756
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1335, Bus Stop, Gali, Mushtaq Rai Khanna Marg, opp. Dispensary, Bazar Sangatrashan, Ratan Lal Market, Aram Bagh, Paharganj, New Delhi, Delhi 110055, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.6437532,
+                    "lng": 77.2131771
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.6451062302915,
+                        "lng": 77.2145022802915
+                    },
+                    "southwest": {
+                        "lat": 28.64240826970849,
+                        "lng": 77.21180431970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Shivam international",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103089562863976499755\">Avik Singha</a>"
+                    ],
+                    "photo_reference": "AU_ZVEFPO95cZ3szRSWxuGBylJS9p5SfksYI7LZOLXp7i1hrJR10GAq1r7qE-KuCASQQDmFqCUmM8601eb8HJdJdwVqbF2SHjHmp3VF28A7IIDhes_gwyeaktXmsZby1_sUbvq9f47MR6Z7GTeIgVKMd8oDg-MRdD1VhD_nl46LSs0MG-S7K8vy6AmxCW03_2CV3KXO1t_zIYkVq3wWt2oibkgCxAGzluZGp5qs8cV-9sfwgMLyZ19LuJbbSKz9HGIZL_8dGcLmhsocIGy1-XM4grfxbSvjs0LXIipKGjwtg6uMfIITkkTXeho_acroRCDl7wlHPF4TYD95pmaObu91rA1x3ntz2cRNOgALnOGsM5w7lYWXqOg6XCaQgUjkgPmNei-7OwQAND-TmTkz9gIZmzr-IHT6cQs6qHQ5PjnBKC5nabND3",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJDfgYguj9DDkRjSVqz8qcirI",
+            "plus_code": {
+                "compound_code": "J6V7+G7 New Delhi, Delhi, India",
+                "global_code": "7JWVJ6V7+G7"
+            },
+            "rating": 3.4,
+            "reference": "ChIJDfgYguj9DDkRjSVqz8qcirI",
+            "types": [
+                "establishment",
+                "lodging",
+                "point_of_interest"
+            ],
+            "user_ratings_total": 1483
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dwarka City Centre, Plot 4, Sector 13, Dwarka, New Delhi, Delhi, 110075, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.5964764,
+                    "lng": 77.0362777
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.5979190302915,
+                        "lng": 77.0377045802915
+                    },
+                    "southwest": {
+                        "lat": 28.5952210697085,
+                        "lng": 77.03500661970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Radisson Blu Hotel, New Delhi Dwarka",
+            "photos": [
+                {
+                    "height": 1192,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100859543648631888459\">Radisson Blu Hotel, New Delhi Dwarka</a>"
+                    ],
+                    "photo_reference": "AU_ZVEEryurm08bEIDhYi0u8P4ZKcM9znxTUQOTlr_ShOFPXJLTIj13BRtab96wZMFmSepd4YRWCnQ5hN67Q7pRU2tEw88doUsYgFOJNf6MlvQG2ekJkhcrJZzNZA9EcYyZUSB3CYSLQZwFMIJu-76oxkgNh_LavJKXqGGz0C1k9x6U6zJbzNSA7Opx837wxAiP-AbReB8Nwg3K1J1w1T0qh09m5WFCP1U6H8Eye-UTtMU2-zcyRHBP6yYrEMLw094Q3nAjTF7axAJyb2g9pBDprwKDGDaNj-WlDX4s9oXCW4et8lQ",
+                    "width": 2119
+                }
+            ],
+            "place_id": "ChIJNVRyWcgaDTkRj3BVa6ccnAo",
+            "plus_code": {
+                "compound_code": "H2WP+HG Sector 13, Kakrola, Delhi, India",
+                "global_code": "7JWVH2WP+HG"
+            },
+            "rating": 4.5,
+            "reference": "ChIJNVRyWcgaDTkRj3BVa6ccnAo",
+            "types": [
+                "establishment",
+                "lodging",
+                "point_of_interest"
+            ],
+            "user_ratings_total": 36544
+        }
+    ],
+    "status": "OK"
+}
